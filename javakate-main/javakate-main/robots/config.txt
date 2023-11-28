@@ -1,0 +1,4 @@
+log.height = 200
+log.width = 100
+model.height = 400
+model.width = 300
