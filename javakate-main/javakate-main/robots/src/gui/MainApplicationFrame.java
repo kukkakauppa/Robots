@@ -59,6 +59,7 @@ public class MainApplicationFrame extends JFrame {
 
         config.loadAllWindows();
     }
+    
 
     void addWindow(JInternalFrame frame) {
         desktopPane.add(frame);
