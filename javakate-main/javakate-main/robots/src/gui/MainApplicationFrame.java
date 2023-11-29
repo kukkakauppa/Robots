@@ -24,6 +24,7 @@ public class MainApplicationFrame extends JFrame {
     private final JDesktopPane desktopPane = new JDesktopPane();
     private final ConfigFile fileConfig;
     private final Config config;
+    
 
     public MainApplicationFrame() {
         Localization.init(Localization.RU); // Инициализируем язык
